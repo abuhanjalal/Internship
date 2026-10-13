@@ -56,15 +56,18 @@
 .srw2{
 	display:flex;
 }
-.sc1{
-	width:
+.c1{
+	width:60%;
 }
-.sc2{
-
+.c2{
+    width:40%;
 }
 .sec2{
 	color:Green;
 	background:black;
+}
+.sbox2 p{
+	font-size:45px;
 }
 
 
